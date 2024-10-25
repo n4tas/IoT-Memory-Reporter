@@ -1,7 +1,5 @@
 # IoT Memory Reporter
 
-## Overview
-
 **IoT Memory Reporter** is a daemon program designed specifically for the RUTX Teltonika routers. It monitors the memory usage of the router and reports this data to the Tuya IoT Cloud platform. This project aims to enhance resource management and facilitate remote monitoring of the router's memory status.
 
 ## Features
