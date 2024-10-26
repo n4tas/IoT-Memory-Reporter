@@ -19,6 +19,7 @@
   - `libubus`
   - `libubox`
   - `libblobmsg-json`
+  - `argp-standalone`
 
 ## Installation
 
